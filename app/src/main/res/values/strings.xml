@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GroceryApp</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="new_account_text">Don\'t Have An Account ?</string>
+    <string name="have_account_text">Already Have An Account ?</string>
+    <string name="login_btn_text">Login</string>
+    <string name="signUp_btn_text">Sign Up</string>
+    <string name="create_btn_text">Create</string>
+
+    <string name="nav_profile">Profile</string>
+    <string name="nav_home">Home</string>
+
+    <string name="main_toolbar_title">Oasis Blog</string>
+    <string name="author_prefix">By:</string>
+    <string name="article_thumbnail">Article Thumbnail</string>
+    <string name="article_thumbnail_description">Article Thumbnail Description</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!--Drawer List Items-->
+    <string-array name="drawer_list_items">
+        <item>Settings</item>
+        <item>About</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
